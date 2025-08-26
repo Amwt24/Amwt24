@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm AMAWTA CHACHA! 👋
+# I'm Amawta Chacha! 👋
 
 <a href="https://www.linkedin.com/in/amawta-chacha-63aa8579" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:amawtachacha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="mailto:amawtachacha4@ieee.org"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Email"></a>
 
-An aspiring Information Systems Engineering student at **Universidad Central del Ecuador**, passionate about creating robust software solutions and exploring the world of IoT and network automation.
+I'm an aspiring Information Systems Engineering student at **Universidad Central del Ecuador**, passionate about creating robust software solutions and exploring the world of IoT and network automation.
 
 ---
 
