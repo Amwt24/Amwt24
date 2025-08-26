@@ -46,9 +46,13 @@ An aspiring Information Systems Engineering student at **Universidad Central del
   <a href="#"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-E34F26?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 <p align="left">
-  <strong>Hardware & Networking:</strong><br>
-  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
+  <strong>Security & Networking:</strong><br>
+  <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
   <a href="#"><img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a>
+</p>
+<p align="left">
+  <strong>Hardware:</strong><br>
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
 </p>
 
 ---
