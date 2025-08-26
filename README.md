@@ -36,7 +36,7 @@ An aspiring Information Systems Engineering student at **Universidad Central del
 </p>
 <p align="left">
   <strong>Backend & Frameworks:</strong><br>
-  <a href="#"><img alt="Spring Boot" src="https://img.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
   <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-FFFFFF?style=for-the-badge&logo=java&logoColor=black"></a>
 </p>
@@ -55,12 +55,17 @@ An aspiring Information Systems Engineering student at **Universidad Central del
 
 ### 🌱 What I'm currently working on
 
-- 🔭 I am currently working on **[Name of your main project or a specific area you are focusing on]**.
-- 🌱 I am actively learning more about **[A new technology you are studying, e.g., "Docker and containerization" or "Cloud Computing with AWS"]**.
-- 👯 I'm looking to collaborate on open-source projects related to **[Your area of interest, e.g., "IoT" or "backend development"]**.
+- 🔭 I'm currently focused on improving my skills in software development and exploring new technologies.
+- 🌱 I'm learning more about **Microservices**, **AWS**, and **Open Source** development.
+- 👯 I'm looking to collaborate on open-source projects related to **System Development**, **Microservices**, and **Cloud Computing**.
 - 📫 You can reach me via email at **amawtachacha4@gmail.com** or **amawtachacha4@ieee.org**.
 
----
+### 💡 My Interests
+
+*   **Open Source**: I'm passionate about contributing to open-source projects and collaborating with the community.
+*   **AWS**: I'm interested in cloud computing and exploring the services offered by AWS.
+*   **Microservices**: I believe in the power of microservices architecture and its benefits in building scalable systems.
+*   **System Development**: I'm passionate about developing robust and efficient systems that meet the needs of users.
 
 ### 📊 My GitHub Stats
 
