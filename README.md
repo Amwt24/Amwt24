@@ -24,7 +24,7 @@ I'm an aspiring Information Systems Engineering student at **Universidad Central
 
 ---
 
-### 🚀 My Skills
+###  My Skills
 
 <p align="left">
   <strong>Languages & Frontend:</strong><br>
@@ -57,14 +57,14 @@ I'm an aspiring Information Systems Engineering student at **Universidad Central
 
 ---
 
-### 🌱 What I'm currently working on
+###  What I'm currently working on
 
 - 🔭 I'm currently focused on improving my skills in software development and exploring new technologies.
 - 🌱 I'm learning more about **Microservices**, **AWS**, and **Open Source** development.
 - 👯 I'm looking to collaborate on open-source projects related to **System Development**, **Microservices**, and **Cloud Computing**.
 - 📫 You can reach me via email at **amawtachacha4@gmail.com** or **amawtachacha4@ieee.org**.
 
-### 💡 My Interests
+###  My Interests
 
 *   **Open Source**: I'm passionate about contributing to open-source projects and collaborating with the community.
 *   **AWS**: I'm interested in cloud computing and exploring the services offered by AWS.
